@@ -1,6 +1,6 @@
-package com.java.player;
+package com.anna_class.player;
 
-import com.java.weapon.*;
+import com.anna_class.weapon.*;
 
 import java.util.Scanner;
 

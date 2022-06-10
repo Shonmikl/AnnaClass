@@ -1,6 +1,6 @@
-package com;
+package com.anna_class;
 
-import com.java.player.Player;
+import com.anna_class.player.Player;
 
 public class Test {
     public static void main(String[] args) {

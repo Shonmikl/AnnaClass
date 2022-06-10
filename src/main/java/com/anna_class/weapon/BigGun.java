@@ -1,4 +1,4 @@
-package com.java.weapon;
+package com.anna_class.weapon;
 
 public class BigGun extends Weapon {
     @Override
